@@ -32,6 +32,9 @@ There was a problem with last solution. When files were deleted from SOURCE, the
 
 Now it works better.
 
+**UPDATE#2**
+![error](./image/1.5.5.jpg)
+
 ## scp
 
 Using `scp` a way harder for this purpose.

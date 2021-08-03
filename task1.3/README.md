@@ -11,7 +11,7 @@ I had been trying some variations of using `IFS` to manipulate this symbols in t
 
 As a result, my script works without an environment variable. (not taking into account some cheats)
 
-![error](./image/1.3.1.jpg)
+![error](./image/1.3.2.jpg)
 
 Screenshot was updated </br>
 I decide to add `-e` option to remove some pipes `|`.
